@@ -1,0 +1,19 @@
+.head {
+    text-decoration: underline;
+}
+
+.head1 {
+    color: blue;
+    text-decoration: underline;
+}
+
+.head2 {
+   color: green;
+   text-decoration: underline;
+}
+
+.head3 {
+    padding-left: 180px;
+    color: red;
+    text-align: justify;
+}
